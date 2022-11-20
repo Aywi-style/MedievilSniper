@@ -1,8 +1,8 @@
-# Medievil Sniper
+# Medieval Sniper
 ![Game icon](https://github.com/Aywi-style/MedievilSniper/raw/main/Media/icon.png)
 
-*Runned in 3D space*  
-[GooglePlay](https://play.google.com/store/apps/details?id=nottingham.archer.shoot.controlled.arrow "Medievil Sniper page")
+*Runner in 3D space*  
+[GooglePlay](https://play.google.com/store/apps/details?id=nottingham.archer.shoot.controlled.arrow "Medieval Sniper page")
 
 Game develop from concept to release with publisher.
 I developed the idea and all game mechanics. Wrote technical specifications for artists.
@@ -16,4 +16,3 @@ Developed sound system. Worked with publisher SDK.
 ![Gameplay_4](https://github.com/Aywi-style/MedievilSniper/raw/main/Media/img_5.png)
 ![Gameplay_5](https://github.com/Aywi-style/MedievilSniper/raw/main/Media/img_6.png)
 ![Gameplay_6](https://github.com/Aywi-style/MedievilSniper/raw/main/Media/img_7.png)
-![Gameplay_7](https://github.com/Aywi-style/MedievilSniper/raw/main/Media/img_8.png)
