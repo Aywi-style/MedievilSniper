@@ -1,13 +1,26 @@
 # Medieval Sniper
 ![Game icon](https://github.com/Aywi-style/MedievilSniper/raw/ScritpsFiles/Media/icon.png)
 
-*Runner in 3D space*  
+*Раннер стрелой в 3D пространстве*  
 [GooglePlay](https://play.google.com/store/apps/details?id=nottingham.archer.shoot.controlled.arrow "Medieval Sniper page")
 
-Game develop from concept to release with publisher.
-I developed the idea and all game mechanics. Wrote technical specifications for artists.
-Worked with IK, destructibility objects, ragdoll. Upgraded own pool system.
-Developed sound system. Worked with publisher SDK.
+Игра разработана мной полностью от концепта до релиза в сотрудничестве с издателем.  
+Я продумал идею и все игровые механики. Писал тех задания для художников и программистов.  
+Работал над IK, Ragdoll и разрушаемостью. Прокачал свою же систему пулов.  
+Разработал звуковую систему. Также занимался накаткой SDK на конечный билд.  
+
+Мною реализованы механики:
+• Буллеттайма. Остановка времени во время управления стрелой для более простого попадания в объекты;  
+• Комбо при попадании в различные объекты. Комбо влияет на получение очков, визуальные эффекты от стрелы и продолжительность буллеттайма;  
+• Псевдогравитация, тянущая стрелу вниз;  
+• Системы разрушения объектов и их реакцию на разрушение;  
+• Ragdoll врагов при попадании в них стрелы;  
+• Обводка интерактивных объектов в определенный цвет в зависимости от его роли;  
+• Патрулирование вражеских юнитов на уровнях;  
+• Ивенты отвечающие за победу и поражение в игре;  
+• Система начисления очков за действия игрока учитывающая: попадание в разрушаемый объект, размер объекта, попадание во врага, тип врага, уровень комбо игрока;  
+• Вибрация в игре;  
+• Гибкая аудио система, проигрывающая необходимы звук с разным уровнем питча в зависимости от типа и материала объекта. Также она плавно меняет эмбиент на уровне, если он имеется и не перестаёт работать при переходе на новую сцену.  
 
 ![Game poster](https://github.com/Aywi-style/MedievilSniper/raw/ScritpsFiles/Media/img_1.png)
 ![Gameplay_1](https://github.com/Aywi-style/MedievilSniper/raw/ScritpsFiles/Media/img_2.png)
